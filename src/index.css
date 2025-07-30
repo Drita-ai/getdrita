@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "burtons";
+    src: url("../public/Burtons.otf");
+}
+
+@theme {
+    --font-burtons: "burtons", "sans-serif";
+}
